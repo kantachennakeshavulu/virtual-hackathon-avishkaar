@@ -1,0 +1,27 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Streamlit secrets & session
+.streamlit/secrets.toml
+.streamlit/*.local
+
+# Local forensic vault & database files (keep clean on initial commit)
+users.json
+complaints.json
+sessions.json
+global_audit.json
+firebase_key.json
+evidence_vault/
+soc_report/
+uploads/
+
+# OS specific files
+.DS_Store
+Thumbs.db

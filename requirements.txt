@@ -1,0 +1,11 @@
+streamlit>=1.30.0
+firebase-admin>=6.2.0
+scapy>=2.5.0
+pandas>=2.0.0
+pefile>=2023.2.7
+Pillow>=9.5.0
+exifread>=3.0.0
+requests>=2.31.0
+qrcode>=7.4.2
+plotly>=5.15.0
+python-docx>=1.0.0
